@@ -1,8 +1,6 @@
-# Olympics Data Analysis
+# Summer Olympics Data Analysis Dashboard
 
 ![image alt](https://github.com/Sadat-Shakeeb/Olympics-Analysis-Web-app/blob/b14f976fc8497b6e7410c275ad76f809b5157ec3/Olympic-Logos-1.png)
-
-# Summer Olympics Data Analysis Dashboard
 
 Welcome to the **Summer Olympics Data Analysis Dashboard** – an interactive web application built with Python that explores the rich history of the modern Olympic Games. This project provides insights into the evolution of the Olympics through visualizations, tables, and interactive filters, all presented in a sleek, user-friendly dashboard powered by Streamlit.
 
